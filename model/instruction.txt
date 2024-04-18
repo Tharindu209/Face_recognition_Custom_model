@@ -1,0 +1,2 @@
+1. download the pre-trained model.
+2. add into this folder.
