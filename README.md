@@ -9,7 +9,7 @@ This is a quick guide of how to get set up and running a robust real-time facial
 
 As the Facenet model was trained on older versions of TensorFlow, the architecture.py file is used to define the model's architecture on newer versions of TensorFlow so that the pre-trained model's weight can be loaded.<br>
 
-Dowload pre-trained weight from [Here.👈](https://drive.google.com/drive/folders/1scGoVCQp-cNwKTKOUqevCP1N2LlyXU3l?usp=sharing) <br>
+Dowload pre-trained weight from [Here.👈](https://drive.google.com/drive/folders/1R4musrWeMDWkZ6OFqyLg6ml9eaFJuhKI?usp=share_link) <br>
 For in depth explanation follow this amazingly expained [article. 👈](https://arsfutura.com/magazine/face-recognition-with-facenet-and-mtcnn/)
 
 # Dependencies
