@@ -10,7 +10,7 @@ from tensorflow.keras.models import load_model
 face_data = "Faces/"
 required_shape = (160, 160)
 face_encoder = InceptionResNetV2()
-path = "facenet_keras_weights.h5"
+path = "model/facenet_keras_weights.h5"
 face_encoder.load_weights(path)
 face_detector = mtcnn.MTCNN()
 encodes = []
